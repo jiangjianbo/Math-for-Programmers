@@ -90,7 +90,7 @@
 
 它们的依赖关系如下：
 
-![概念依赖关系](E:\work\Math for Programmers\概念依赖关系V2.png)
+![概念依赖关系](./概念依赖关系V2.png)
 
 
 
