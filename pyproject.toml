@@ -1,0 +1,16 @@
+[project]
+name = "math-for-programmers"
+version = "0.1.0"
+description = "程序员高等数学重学计划 - Math for Programmers"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "scipy>=1.12",
+    "marimo>=0.8",
+    "sympy>=1.12",
+    "polars>=1.0",
+]
+
+[tool.marimo]
+display_name = "Math for Programmers"

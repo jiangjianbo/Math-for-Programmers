@@ -1,0 +1,28 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.13",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "b03ae3d1a8c7e35b57a5d71425064bb8",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "a9da4587773d2b79609030fc72ff568d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"_1\">\ufffd\ufffd\ufffd\uef36\ufffd\ufffd</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

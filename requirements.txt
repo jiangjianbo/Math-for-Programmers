@@ -1,0 +1,6 @@
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.12
+marimo>=0.8
+sympy>=1.12
+polars>=1.0
